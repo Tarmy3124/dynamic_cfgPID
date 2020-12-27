@@ -1,0 +1,12 @@
+<launch>
+  
+  <!-- decision and plan node -->
+  
+ 
+  <node pkg="dynamic_cfgPID" type="roscar_pid" name="roscar" respawn="true" output="screen">
+ 
+  </node>
+
+
+  
+</launch>
